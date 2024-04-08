@@ -43,8 +43,8 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Shandong Province Taishan Scholar Youth Expert. 
+- *2022.12* 山东省人工智能年度优秀论文. 
 
 # 📖 Educations
 - *2018.11 - 2022.06*, Ph.D. University of Liverpool. Electrical and Electronic Engineering.
