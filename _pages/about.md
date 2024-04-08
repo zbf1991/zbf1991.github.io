@@ -46,8 +46,8 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 - **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, Mingjie Sun, and Kaizhu Huang. Reliability does matter: An end-to-end weakly supervised semantic segmentation approach. **AAAI 2020**
 - **Bingfeng Zhang**, Jimin Xiao, and Terry Qin. Self-guided and cross-guided learning for few-shot segmentation. **CVPR 2021**.
-- **Bingfeng Zhang**, Jimin Xiao, Jianbo Jiao, Yunchao Wei, and Yao Zhao. Affinity attention graph neural network for weakly supervised semantic segmentation. **IEEE TPAMI2022**.
-- **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, and Yao Zhao. Credible Dual-Expert learning for weakly supervised semantic segmentation. **IJCV2023**.
+- **Bingfeng Zhang**, Jimin Xiao, Jianbo Jiao, Yunchao Wei, and Yao Zhao. Affinity attention graph neural network for weakly supervised semantic segmentation. **IEEE TPAMI 2022**.
+- **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, and Yao Zhao. Credible Dual-Expert learning for weakly supervised semantic segmentation. **IJCV 2023**.
 
 # 🎖 Honors and Awards
 - *2023.10* Shandong Province Taishan Scholar Youth Expert. 
