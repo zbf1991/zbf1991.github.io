@@ -53,7 +53,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 # 💬 Invited Talks
 - *2022.10*, 山东省首届计算机视觉大会，数据受限场景的图像分割.
 
-[//]:- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- -*2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
 [//]:- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
