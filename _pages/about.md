@@ -23,6 +23,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 One paper has accept  by AAAI 2025! 
 - *2024.04*: &nbsp;🎉🎉 One paper has accept as CVPR 2024 highlight paper! (only 324 papers are selected as highlight, 90 as oral!) 
 - *2024.03*: &nbsp;🎉🎉 Four papers has accept by CVPR 2024!
 
@@ -50,6 +51,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 - **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, and Yao Zhao. Credible Dual-Expert learning for weakly supervised semantic segmentation. **IJCV 2023**.
 
 # 🎖 Honors and Awards
+- *2024.12* 江苏省计算机学会自然科学奖三等奖. 
 - *2023.10* Shandong Province Taishan Scholar Youth Expert. 
 - *2022.12* 山东省人工智能年度优秀论文. 
 
