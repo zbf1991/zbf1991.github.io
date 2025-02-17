@@ -23,7 +23,8 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 One paper has accept  by AAAI 2025! 
+- *2025.02*: &nbsp;🎉🎉 One paper has accept  by TPAMI! 
+- *2024.12*: &nbsp;🎉🎉 One paper has accept  by AAAI 2025! 
 - *2024.04*: &nbsp;🎉🎉 One paper has accept as CVPR 2024 highlight paper! (only 324 papers are selected as highlight, 90 as oral!) 
 - *2024.03*: &nbsp;🎉🎉 Four papers has accept by CVPR 2024!
 
