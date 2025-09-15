@@ -23,7 +23,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper has accept  by TIP! Congratulations for Jin Wang! 
+- *2025.09*: &nbsp;🎉🎉 One paper has accept  by TNNLS! Congratulations for Jin Wang! 
 - *2025.03*: &nbsp;🎉🎉 One paper has accept  by TIP! Congratulations for Pangjian! 
 - *2025.02*: &nbsp;🎉🎉 One paper has accept  by TPAMI! 
 - *2024.12*: &nbsp;🎉🎉 One paper has accept  by AAAI 2025! Congratulations for Tang hao!
