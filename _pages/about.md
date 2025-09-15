@@ -23,6 +23,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper has accept  by TIP! Congratulations for Jin Wang! 
 - *2025.03*: &nbsp;🎉🎉 One paper has accept  by TIP! Congratulations for Pangjian! 
 - *2025.02*: &nbsp;🎉🎉 One paper has accept  by TPAMI! 
 - *2024.12*: &nbsp;🎉🎉 One paper has accept  by AAAI 2025! Congratulations for Tang hao!
@@ -58,6 +59,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 - *2022.12* 山东省人工智能年度优秀论文. 
 
 # 📖 Educations
+- *2025.07 - 2025.08*, 访问学者. 萨里大学, supported by IAS Fellowship.
 - *2018.11 - 2022.06*, Ph.D. University of Liverpool. Electrical and Electronic Engineering.
 - *2015.09 - 2016.11*, Master. University of Southampton. Systems, Control and Signal Processing. 
 
