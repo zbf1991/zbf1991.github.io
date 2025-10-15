@@ -49,13 +49,15 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
-- **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, Mingjie Sun, and Kaizhu Huang. Reliability does matter: An end-to-end weakly supervised semantic segmentation approach. **AAAI 2020**
-- **Bingfeng Zhang**, Jimin Xiao, and Terry Qin. Self-guided and cross-guided learning for few-shot segmentation. **CVPR 2021**.
-- **Bingfeng Zhang**, Jimin Xiao, Jianbo Jiao, Yunchao Wei, and Yao Zhao. Affinity attention graph neural network for weakly supervised semantic segmentation. **IEEE TPAMI 2022**.
-- **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, and Yao Zhao. Credible Dual-Expert learning for weakly supervised semantic segmentation. **IJCV 2023**.
-- **Bingfeng Zhang**, Siyue Yu, Jimin Xiao, Yunchao Wei, Yao Zhao. Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation. **CVPR 2024** (Spotlight).
-- Hanyang Chi, Jian Pang, **Bingfeng Zhang**, Weifeng Liu. Adaptive bidirectional displacement for semi-supervised medical image segmentation. **CVPR 2024** 
 - **Bingfeng Zhang**, Siyue Yu, Jimin Xiao, Yunchao Wei, Yao Zhao. Frozen CLIP-DINO: A Strong Backbone for Weakly Supervised Semantic Segmentation. **TPAMI 2025**.
+- Jin Wang, **Bingfeng Zhang\***, Jian Pang, Honglong Chen, Weifeng Liu\*. Rethinking prior information generation with clip for few-shot segmentation. **CVPR 2024**.
+- **Bingfeng Zhang**, Siyue Yu, Jimin Xiao, Yunchao Wei, Yao Zhao. Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation. **CVPR 2024** (Spotlight).
+- Hanyang Chi, Jian Pang, **Bingfeng Zhang\***, Weifeng Liu. Adaptive bidirectional displacement for semi-supervised medical image segmentation. **CVPR 2024**. (Corresponding Author)
+- **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, and Yao Zhao. Credible Dual-Expert learning for weakly supervised semantic segmentation. **IJCV 2023**.
+- **Bingfeng Zhang**, Jimin Xiao, Jianbo Jiao, Yunchao Wei, and Yao Zhao. Affinity attention graph neural network for weakly supervised semantic segmentation. **IEEE TPAMI 2022**.
+- **Bingfeng Zhang**, Jimin Xiao, and Terry Qin. Self-guided and cross-guided learning for few-shot segmentation. **CVPR 2021**.
+- **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, Mingjie Sun, and Kaizhu Huang. Reliability does matter: An end-to-end weakly supervised semantic segmentation approach. **AAAI 2020** (Spotlight).
+
 
 
 # 🎖 Honors and Awards
