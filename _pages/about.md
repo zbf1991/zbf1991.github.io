@@ -23,6 +23,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Congratulations to Wanqi He on receiving the National Scholarship!
 - *2025.09*: &nbsp;🎉🎉 One paper has accept  by TNNLS! Congratulations for Jin Wang! 
 - *2025.03*: &nbsp;🎉🎉 One paper has accept  by TIP! Congratulations for Pangjian! 
 - *2025.02*: &nbsp;🎉🎉 One paper has accept  by TPAMI! 
@@ -52,6 +53,10 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 - **Bingfeng Zhang**, Jimin Xiao, and Terry Qin. Self-guided and cross-guided learning for few-shot segmentation. **CVPR 2021**.
 - **Bingfeng Zhang**, Jimin Xiao, Jianbo Jiao, Yunchao Wei, and Yao Zhao. Affinity attention graph neural network for weakly supervised semantic segmentation. **IEEE TPAMI 2022**.
 - **Bingfeng Zhang**, Jimin Xiao, Yunchao Wei, and Yao Zhao. Credible Dual-Expert learning for weakly supervised semantic segmentation. **IJCV 2023**.
+- **Bingfeng Zhang**, Siyue Yu, Jimin Xiao, Yunchao Wei, Yao Zhao. Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation. **CVPR 2024** (Spotlight).
+- Hanyang Chi, Jian Pang, **Bingfeng Zhang**, Weifeng Liu. Adaptive bidirectional displacement for semi-supervised medical image segmentation. **CVPR 2024** 
+- **Bingfeng Zhang**, Siyue Yu, Jimin Xiao, Yunchao Wei, Yao Zhao. Frozen CLIP-DINO: A Strong Backbone for Weakly Supervised Semantic Segmentation. **TPAMI 2025**.
+
 
 # 🎖 Honors and Awards
 - *2024.12* 江苏省计算机学会自然科学奖三等奖. 
