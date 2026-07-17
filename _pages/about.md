@@ -23,6 +23,8 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper has accept  by TCSVT! Congratulations for Jin Wang!
+- *2026.03*: &nbsp;🎉🎉 Two papers has accept by CVPR 2026 Main Track! 
 - *2025.11*: &nbsp;🎉🎉 One paper has accept by AAAI 2026! Congratulations for Liheng Zhang!
 - *2025.09*: &nbsp;🎉🎉 Congratulations to Wanqi He on receiving the National Scholarship!
 - *2025.09*: &nbsp;🎉🎉 One paper has accept  by TNNLS! Congratulations for Jin Wang! 
@@ -60,7 +62,8 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 
 
 # 🎖 Honors and Awards
-- *2024.12* 江苏省计算机学会自然科学奖三等奖. 
+- *2025.11* 山东省人工智能学会自然科学奖二等奖 (排名1). 
+- *2024.12* 江苏省计算机学会自然科学奖三等奖（排名2）. 
 - *2023.10* Shandong Province Taishan Scholar Youth Expert. 
 - *2022.12* 山东省人工智能年度优秀论文. 
 
