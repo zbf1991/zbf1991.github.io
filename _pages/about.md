@@ -19,7 +19,7 @@ redirect_from:
 
 Bingfeng Zhang, Associate Professor at the School of Control Science and Engineering, China University of Petroleum (East China). Shandong Province Taishan Scholar Youth Expert, the IEEE member. The primary research interest is computer vision and pattern recognition. I have led one National Natural Science Foundation of China (NSFC) Young Scientist Fund project and three provincial, municipal, and university-level projects. Over the past five years, I has published a cumulative more than 20 papers in top-tier artificial intelligence journals and conferences, including TPAMI, IJCV, PR, CVPR, and AAAI. I serves as a guest editor for the Remote Sensing journal and concurrently acts as a reviewer for several top-tier journals and conferences in the field, such as TPAMI, TIP, CVPR, ICCV, TMI, and TMM.
 
-张冰峰，中国石油大学（华东）控制科学与工程学院副教授，山东省泰山学者青年专家，IEEE会员。2022年获得利物浦大学博士学位，主要研究方向为计算机视觉与模式识别，主持国家自然科学基金青年基金1项，省市校级项目3项、参与国家自然基金重点及面上项目2项。近5年累计发表TPAMI、IJCV、PR、CVPR、AAAI等人工智能顶级期刊及会议论文30余篇，担任Remote Sensing期刊客座编辑，同时担任TPAMI、TIP、CVPR、ICCV、TMI、TMM等多个顶级期刊和会议审稿人。
+张冰峰，中国石油大学（华东）控制科学与工程学院副教授，山东省泰山学者青年专家，IEEE会员。2022年获得利物浦大学博士学位，主要研究方向为计算机视觉与模式识别，主持国家自然科学基金面上项目1项，国家自然科学基金青年基金1项，省市校级项目3项、参与国家自然基金重点及面上项目2项。近5年累计发表TPAMI、IJCV、PR、CVPR、AAAI等人工智能顶级期刊及会议论文30余篇，担任Remote Sensing期刊客座编辑，同时担任TPAMI、TIP、CVPR、ICCV、TMI、TMM等多个顶级期刊和会议审稿人。
 
 
 # 🔥 News
@@ -64,7 +64,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 # 🎖 Honors and Awards
 - *2025.11* 山东省人工智能学会自然科学奖二等奖 (排名1). 
 - *2024.12* 江苏省计算机学会自然科学奖三等奖（排名2）. 
-- *2023.10* Shandong Province Taishan Scholar Youth Expert. 
+- *2023.10* 山东省泰山学者青年专家. 
 - *2022.12* 山东省人工智能年度优秀论文. 
 
 # 📖 Educations
@@ -73,6 +73,7 @@ Bingfeng Zhang, Associate Professor at the School of Control Science and Enginee
 - *2015.09 - 2016.11*, Master. University of Southampton. Systems, Control and Signal Processing. 
 
 # 💬 Invited Talks
+- *2026.10*， ICIG 2026，From Image to Patch: Progressive Refinement for Training-Free Open-Vocabulary Semantic Segmentation 
 - *2022.10*, 山东省首届计算机视觉大会，数据受限场景的图像分割.
 
 <!-- -*2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
