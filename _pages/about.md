@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Bingfeng Zhang, Associate Professor at the School of Control Science and Engineering, China University of Petroleum (East China). Shandong Province Taishan Scholar Youth Expert, the IEEE member. The primary research interest is computer vision and pattern recognition. I have led one National Natural Science Foundation of China (NSFC) Young Scientist Fund project and three provincial, municipal, and university-level projects. Over the past five years, I has published a cumulative more than 20 papers in top-tier artificial intelligence journals and conferences, including TPAMI, IJCV, PR, CVPR, and AAAI. I serves as a guest editor for the Remote Sensing journal and concurrently acts as a reviewer for several top-tier journals and conferences in the field, such as TPAMI, TIP, CVPR, ICCV, TMI, and TMM.
+Bingfeng Zhang, Associate Professor at the School of Control Science and Engineering, China University of Petroleum (East China). Shandong Province Taishan Scholar Youth Expert, the IEEE member. The primary research interest is computer vision and pattern recognition. I have led one NSFC General Program (面上项目) and one National Natural Science Foundation of China (NSFC) Young Scientist Fund project, as well as three provincial, municipal, and university-level projects. Over the past five years, I have published a cumulative more than 20 papers in top-tier artificial intelligence journals and conferences, including TPAMI, IJCV, PR, CVPR, and AAAI. I serve as a guest editor for the Remote Sensing journal and concurrently act as a reviewer for several top-tier journals and conferences in the field, such as TPAMI, TIP, CVPR, ICCV, TMI, and TMM.
 
 张冰峰，中国石油大学（华东）控制科学与工程学院副教授，山东省泰山学者青年专家，IEEE会员。2022年获得利物浦大学博士学位，主要研究方向为计算机视觉与模式识别，主持国家自然科学基金面上项目1项，国家自然科学基金青年基金1项，省市校级项目3项、参与国家自然基金重点及面上项目2项。近5年累计发表TPAMI、IJCV、PR、CVPR、AAAI等人工智能顶级期刊及会议论文30余篇，担任Remote Sensing期刊客座编辑，同时担任TPAMI、TIP、CVPR、ICCV、TMI、TMM等多个顶级期刊和会议审稿人。
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our project **"Human-like Perception-Driven Active Visual Segmentation in Open Environments"** has been funded by the **NSFC General Program (面上项目, No. 62671623)**!
 - *2026.06*: &nbsp;🎉🎉 One paper has accept  by TCSVT! Congratulations for Jin Wang!
 - *2026.03*: &nbsp;🎉🎉 Two papers has accept by CVPR 2026 Main Track! 
 - *2025.11*: &nbsp;🎉🎉 One paper has accept by AAAI 2026! Congratulations for Liheng Zhang!
